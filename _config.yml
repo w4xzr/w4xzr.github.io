@@ -1,4 +1,1 @@
 include: [".well-known"]
-include: ["crl"]
-include: ["cps"]
-include: ["svg"]
