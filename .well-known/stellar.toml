@@ -1,2 +1,10 @@
 # Federation service provided by StellarID.io
 FEDERATION_SERVER="https://stellarid.io/federation/"
+
+
+SIGNING_KEY = "GD44TKDDVUFXZRZPKKFJFOC5JWU3SMYWV4YNWPXEE56YAOZISRFN7LG6"
+NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
+
+TRANSFER_SERVER = "https://testanchor.stellar.org/sep6"
+TRANSFER_SERVER_SEP0024 = "https://testanchor.stellar.org/sep24"
+WEB_AUTH_ENDPOINT = "https://testanchor.stellar.org/auth"
