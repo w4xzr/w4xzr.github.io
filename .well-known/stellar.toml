@@ -10,6 +10,8 @@ ACCOUNTS=[
 "GBYXWZ5AHNADRK7YNSM7PYTGRJPZ6XK6KS5AZB4S7XM6XS6WEBSIGNER"
 ]
 
+
+
 [DOCUMENTATION]
 ORG_NAME="Thomas R. Brown, W4XZR"
 ORG_URL="https://w4xzr.xyz"
@@ -21,57 +23,67 @@ code="xzrUSD"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrBTC"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrEUR"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrUSDC"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrPAX"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrBNB"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrUSDT"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrTRY"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrETH"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
 
 [[CURRENCIES]]
 code="xzrBUSD"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
 desc="TestNet assets are issued to test and for play by W4XZR"
+image="https://w4xzr.xyz/drawing-2.png"
