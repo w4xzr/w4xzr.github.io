@@ -20,48 +20,58 @@ ORG_DESCRIPTION="TestNet assets are issued to test and for play by W4XZR"
 code="xzrUSD"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrBTC"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrEUR"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrUSDC"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrPAX"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrBNB"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrUSDT"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrTRY"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrETH"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
 
 [[CURRENCIES]]
 code="xzrBUSD"
 issuer="GBSXDLGP5YN6X6EJ33QP6UTZLTCH7UCLIU7LZKGMXZUQOFZB6HISSUER"
 display_decimals=7
+desc="TestNet assets are issued to test and for play by W4XZR"
